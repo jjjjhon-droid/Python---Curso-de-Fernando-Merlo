@@ -1,2 +1,3 @@
-# Python---Curso-de-Fernando-Merlo
-Primera clase de ejercicios 
+# 🐍 Mis Ejercicios de Python
+Repositorio de aprendizaje de programacion. 
+
