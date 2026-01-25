@@ -2,6 +2,6 @@
 
 hace_sol = True
 es_vacaciones = False 
-
 ir_a_playa = hace_sol or es_vacaciones
+
 print(ir_a_playa)

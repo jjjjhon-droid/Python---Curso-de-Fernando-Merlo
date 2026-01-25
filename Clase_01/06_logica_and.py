@@ -2,6 +2,6 @@
 
 usuario = "Admin"
 clave = "1234"
-
 acceso = usuario == "Admin" and clave == "1234"
+
 print(acceso)
