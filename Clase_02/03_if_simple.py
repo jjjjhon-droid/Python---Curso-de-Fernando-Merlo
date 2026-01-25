@@ -2,7 +2,7 @@
 #  Si responde "si", aplica un descuento del 50%. Al final imprime el precio a pagar.
 
 entrada = 50
-vip = input("Tienes tarjeta VIP? (si/no)").lower().strip()
+vip = input("Tienes tarjeta VIP? (si/no)")
 
 if vip == "si":
     entrada = entrada * 0.5 
